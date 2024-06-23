@@ -4,7 +4,8 @@
 > 해당 레포지토리는 원본 레포지토리가 아닙니다 ‼️ </br>
 # Fitapat - iOS
 
-<img src="https://github.com/meltsplit/Fitapat-iOS/assets/57269348/202d3c3c-0725-4411-bd6f-5bea102eacc5" height="800"> </br>
+
+<img src="https://github.com/meltsplit/Fitapat/assets/57269348/925a09a6-f1b2-4674-820d-1ef5f65e693c" height="800"> </br>
 > fitapat(핏어팻)은 생성형 AI를 활용한 반려동물 커스텀 굿즈 이커머스입니다
 
 ## 🛠️ Skills
@@ -19,7 +20,7 @@
 - Realm
 
 ## 🏛️ 아키텍처: MVVM + CleanArchitecture
-![clean_arch](https://github.com/meltsplit/Fitapat-iOS/assets/57269348/6f8480e4-df78-4b44-8913-b8682e7bb6a3)
+![아키텍처](https://github.com/meltsplit/Fitapat/assets/57269348/7776d712-676c-4ace-bb28-4253c9a53a2e)
 
 ### MVVM
 - MVVM을 도입하여 뷰컨트롤러와 뷰는 화면을 그리는 역할에만 집중하고 데이터 관리, 로직의 실행은 뷰모델에서 진행되도록 했습니다.
@@ -60,8 +61,8 @@
 
 
 ### 2. 클린 아키텍처로 외부 변화로부터 보호하기
-<img src="https://github.com/meltsplit/Fitapat-iOS/assets/57269348/00838177-4b52-4548-afb5-1a247df295e7" height="150"> ---
-<img src="https://github.com/meltsplit/Fitapat-iOS/assets/57269348/4c1c9346-f8ca-490a-b1dc-9629482f5c26" height="150"> 
+<img width="615" alt="ZOOC_서비스변경" src="https://github.com/meltsplit/Fitapat/assets/57269348/46b8830a-3ca8-47fd-b03b-ed35ee3347bb">
+
 - **상황**:
   - <네이버 서비스> 문자인증 API 를 모두 구현하였으나, <네이버 서비스> 내부 문제로 API 사용이 3주간 사용이 불가능하다는 통보를 받았습니다. 
 - **해결**:
