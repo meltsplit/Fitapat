@@ -9,6 +9,7 @@
 > fitapat(핏어팻)은 생성형 AI를 활용한 반려동물 커스텀 굿즈 이커머스입니다
 
 ## 🛠️ Skills
+- UIKit (Code Base)
 - RxSwift
 - Moya
 - Snapkit
