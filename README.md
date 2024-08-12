@@ -1,7 +1,7 @@
 
 > 해당 레포지토리는 원본 레포지토리가 아닙니다 ‼️ </br>
 > 해당 레포지토리는 원본 레포지토리가 아닙니다 ‼️ </br>
-> 해당 레포지토리는 원본 레포지토리가 아닙니다 ‼️ </br>
+
 # Fitapat - iOS
 
 
@@ -31,6 +31,8 @@
 - 뷰모델의 비즈니스 로직들을 유즈케이스로, 네트워크나 외부 프레임워크에 대한 요청은 repository로 분리해 각 레이어의 역할을 분명하게 나누었습니다.
 - MockService 객체를 통해 서버 API가 나오기전이라도 뷰로직을 미리 테스트 할 수 있도록 했습니다.
 
+자세한 내용은 아래 링크에서 확인하실 수 있습니다.
+[Fitapat: MVVM + 클린 아키텍처 + RxSwift, Presentation Layer 도입기](https://velog.io/@melt/iOS-Fitapat-MVVM-%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-RxSwift-Presentation-Layer-%EB%8F%84%EC%9E%85%EA%B8%B0)
 </br>
 </br>
 
