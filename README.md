@@ -23,6 +23,8 @@
 ## 🏛️ 아키텍처: MVVM + CleanArchitecture
 ![아키텍처](https://github.com/meltsplit/Fitapat/assets/57269348/7776d712-676c-4ace-bb28-4253c9a53a2e)
 
+[Fitapat: MVVM + 클린 아키텍처 + RxSwift, Presentation Layer 도입기](https://velog.io/@melt/iOS-Fitapat-MVVM-%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-RxSwift-Presentation-Layer-%EB%8F%84%EC%9E%85%EA%B8%B0)
+
 ### MVVM
 - MVVM을 도입하여 뷰컨트롤러와 뷰는 화면을 그리는 역할에만 집중하고 데이터 관리, 로직의 실행은 뷰모델에서 진행되도록 했습니다.
 - 뷰모델을 Input과 Output으로 정의하여 뷰의 이벤트들을 Input에 바인딩하고, 뷰에 보여질 데이터를 Output에 바인딩했습니다.
